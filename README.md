@@ -26,24 +26,9 @@ This project is available under a free and permissive license, but needs a finan
 The development includes both the making of video tutorials and the writing of the code.<br/> 
 If this project is helpful to you, consider to support it through [`Patreon`](https://www.patreon.com/pardcode).<br/>  
 Any single contribution would be greately appreciated, regardless the amount.<br/>
-Many thanks to all [**these people**](#supporters) who have supported me so far!
+Many thanks to all **the patrons** who have supported me so far! <br/>
 
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)  
-
-# Supporters
-
-Thank you so much for your huge support!
-
-**Patreon Supporters (alphabetical order)**  
-
-Ahmad A. - Andrew C. - Andrew M. - Anotherbear Gamer - Austin M. - Bastien R. - bdfy - Biuret<br/>
-Carlo S. - Daniel W. - Elite Salad - hisuzuki - Howl C - James B. - Jesse M.C. - Joshua v.<br/>
-Kim W. - kuronk cat - Lie - Manuel H. - Mateusz P. - Matthew - Miles H. - Murdo M. - Nikhil R.<br/>
-Neil W. - Oliver H. - Patrick B. - Ridtichai B. - Rem saigao<br/>
-REX Li - Robson - Snip - Squeegiefilms - The Spygineer<br/>
-Valgard - Werner O. - WyattFlash<br/>
-
-**All YouTube - Discord - GitHub - Twitter followers and viewers** 
 
 # License
 
